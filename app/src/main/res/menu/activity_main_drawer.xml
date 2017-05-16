@@ -10,14 +10,7 @@
             android:id="@+id/nav_gallery"
             android:icon="@android:drawable/ic_menu_view"
             android:title="Most Viewed" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@android:drawable/sym_action_email"
-            android:title="Most Commented" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@android:drawable/btn_star"
-            android:title="Most Liked" />
+
     </group>
 
 

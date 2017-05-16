@@ -1,8 +1,5 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl617.tugasakhir.model;
 
-/**
- * Created by Agnes-PC on 13/05/2017.
- */
 
 public class Results {
     public String poster_path;
