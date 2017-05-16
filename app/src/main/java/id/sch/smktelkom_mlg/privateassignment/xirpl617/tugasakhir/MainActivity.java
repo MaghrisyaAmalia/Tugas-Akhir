@@ -89,10 +89,6 @@ public class MainActivity extends AppCompatActivity
             fragment = new PopularFragment();
             setTitle("Popular");
 
-        } else if (id == R.id.nav_manage) {
-
-        } else if (id == R.id.nav_slideshow) {
-
         }
 
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();
