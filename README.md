@@ -56,9 +56,15 @@ R Movie Menyediakan :
 Disini R Movie menampilkan interface yang menarik, yang bertemakan warna pink(merah muda) <br>
 yang banyak disukai para remaja putri khususnya. <br>
 <h2>SCREEN SHOOT APLIKASI</h2>
+
 ![screenshot_2017-05-16-10-03-21-108_id sch smktelkom_mlg privateassignment xirpl617 tugasakhir](https://cloud.githubusercontent.com/assets/22170389/26088755/257b846c-3a23-11e7-9ed2-44d0e470880d.png)
+
 ![screenshot_2017-05-16-10-23-21-269_id sch smktelkom_mlg privateassignment xirpl617 tugasakhir](https://cloud.githubusercontent.com/assets/22170389/26088758/257dd53c-3a23-11e7-9d39-81fa53db7224.png)
+
 ![screenshot_2017-05-16-10-23-31-075_id sch smktelkom_mlg privateassignment xirpl617 tugasakhir](https://cloud.githubusercontent.com/assets/22170389/26088754/257b71de-3a23-11e7-9d4c-bd2fe30f9b0d.png)
+
 ![screenshot_2017-05-16-10-23-44-012_id sch smktelkom_mlg privateassignment xirpl617 tugasakhir](https://cloud.githubusercontent.com/assets/22170389/26088756/257ba3ca-3a23-11e7-82d2-360419f2db37.png)
+
 ![screenshot_2017-05-16-10-23-59-959_id sch smktelkom_mlg privateassignment xirpl617 tugasakhir](https://cloud.githubusercontent.com/assets/22170389/26088757/257bb89c-3a23-11e7-8162-fae21668666c.png)
+
 
