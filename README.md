@@ -3,6 +3,7 @@ Aplikasi yang berguna untuk melihat film yang sedang tayang di bioskop
 <br>
 <h2>LINK DOWNLOAD</h2>
 <br>
+https://drive.google.com/open?id=0B5EZE8rEJva9RmlubVRWTk4wSHM
 <br>
 <h2>IDENTITAS DEVELOPER</h2>
 <br>
