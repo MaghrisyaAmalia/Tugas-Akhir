@@ -32,6 +32,7 @@ Jenis Navigasi yang digunakan pada aplikasi R Movie ini adalah Navigation Drawer
 <br>
 <h2>LIBRARY DARI LOCAL DATABASE</h2>
 <br>
+SQLite Database
 <br>
 <h2>DESKRIPSI R MOVIE</h2>
 <br>
